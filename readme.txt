@@ -5,7 +5,7 @@ git status
 git diff
 git log
 git reset --hard HEAD^ / HEAD~
-git cat
+cat
 git reflog
 Working Directory / Repository (stage + master)
 git tracks changes!

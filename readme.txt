@@ -8,4 +8,4 @@ git reset --hard HEAD^ / HEAD~
 git cat
 git reflog
 Working Directory / Repository (stage + master)
-git tracks changes
+git tracks changes!

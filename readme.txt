@@ -20,4 +20,4 @@ git branch
 git branch -d 
 git switch -c dev
 git switch master
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.

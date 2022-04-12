@@ -24,3 +24,4 @@ git switch master
 Creating a new branch is quick and simple.
 git log --graph --pretty=oneline --abbrev-commit
 branch management
+git stash

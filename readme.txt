@@ -1,3 +1,4 @@
+git is a free software.
 git init
 git add (to repository)
 git commit (to master)

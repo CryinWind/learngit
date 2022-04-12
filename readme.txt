@@ -9,3 +9,5 @@ cat
 git reflog
 Working Directory / Repository (stage + master)
 git tracks changes!
+rm
+git remmote add origin git @github.com:xxx/xxx.git

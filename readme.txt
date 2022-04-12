@@ -1,4 +1,3 @@
-git is a free software.
 git init
 git add (to repository)
 git commit (to master)
@@ -24,4 +23,7 @@ git switch master
 Creating a new branch is quick and simple.
 git log --graph --pretty=oneline --abbrev-commit
 branch management
-git stash
+git merge --no-ff -m "xxx" dev
+git stash list
+git stash apply (stash@{}) + git stash drop
+git stash pop
